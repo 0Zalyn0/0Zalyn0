@@ -62,6 +62,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/0Zalyn0/0Zalyn0/output/snake.svg" alt="Snake animation" />
-
-###
